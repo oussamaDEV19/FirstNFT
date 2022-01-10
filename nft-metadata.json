@@ -1,0 +1,20 @@
+{
+    "attributes": [
+      {
+        "trait_type": "company",
+        "value": "Matious"
+      },
+      {
+        "trait_type": "developer",
+        "value": "Oussama"
+      },
+      {
+        "trait_type": "object",
+        "value": "Monkey"
+      }
+    ],
+    "description": "The world's most adorable and sensitive Matious NFT.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmSsXoANXnxGXRhBcqTxv3gYTNLFijnxsLHZ1cwNGErR2F",
+    "name": "Matious"
+  }
+  
